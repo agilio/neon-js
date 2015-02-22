@@ -1,0 +1,25 @@
+{
+  "name": "neon-js",
+  "version": "0.0.1",
+  "description": "NEON encoder and decoder",
+  "main": "./src/neon.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --ui tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agilio/neon-js.git"
+  },
+  "keywords": [
+    "neon"
+  ],
+  "author": "David Matějka <matej21@matej21.cz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matej21/neon-js/issues"
+  },
+  "homepage": "https://github.com/matej21/neon-js/"
+}
